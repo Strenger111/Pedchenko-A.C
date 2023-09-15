@@ -1,0 +1,43 @@
+# Pedchenko-A.C
+<!DOCTYPE html>
+<html lang = "ru">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, instal-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+    <header>
+        <div>
+         <button onclick="alert('khbbk');">
+            смерть
+         </button>  
+            <a href="index.html"><img src="imag7826e6a1edf6e9bb9793bcbf2600e8fc.jpeg"></a>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html"> лого</a>
+                        <a href="index.html#comps">хрень </a>
+                        <a href="pages/interest.html">интересы </a>
+                        <a href="pages/rezume.html">резюме </a>
+                        <a href="pages/contacts.html">контакты </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum nobis assumenda alias sint, delectus id praesentium. Perferendis eum totam cupiditate officia porro ducimus similique, ullam unde eaque tenetur quidem saepe.
+            </p>
+        </section>
+    </main>
+    <footer>
+        <div>  
+            <a href="index.html"><img src="image/T1_JJmXg4gXXXXXXXX.jpg"></a>
+        </div>
+    </footer>
+</body>
+</html>
